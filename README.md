@@ -69,7 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-adding material ui
+added material ui
 `npm add @material-ui/core`
-adding material ui icons
+
+added material ui icons
 `npm add @material-ui/icons`
+
+added roboto font
+`npm add fontsource-roboto`
